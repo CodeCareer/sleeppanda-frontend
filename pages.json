@@ -1,9 +1,21 @@
 {
-	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	"pages": [
 		{
-			"path": "pages/problemOne/index",
+			"path": "pages/homePage/index",
 			"style": {
-				"navigationBarTitleText": "问卷一"
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/resultPage/index",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/answerPage/Answer",
+			"style": {
+				"navigationBarTitleText": "匹兹堡睡眠质量指数（PSQI)"
 			}
 		}
 	],

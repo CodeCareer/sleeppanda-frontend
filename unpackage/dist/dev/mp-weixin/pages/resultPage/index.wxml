@@ -1,0 +1,1 @@
+<view class="result_content data-v-093c8a48"><image class="result_top_img data-v-093c8a48" src="{{a}}"/><view class="result_state_centent data-v-093c8a48"><image class="result_state_img data-v-093c8a48" src="{{b}}"></image></view><view class="result_state data-v-093c8a48">{{c}}</view><view class="result_describe data-v-093c8a48">{{d}}</view></view>

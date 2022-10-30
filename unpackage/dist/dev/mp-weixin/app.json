@@ -1,6 +1,8 @@
 {
   "pages": [
-    "pages/problemOne/index"
+    "pages/homePage/index",
+    "pages/resultPage/index",
+    "pages/answerPage/Answer"
   ],
   "window": {
     "navigationBarTextStyle": "black",

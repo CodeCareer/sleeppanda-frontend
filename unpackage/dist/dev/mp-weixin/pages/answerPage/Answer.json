@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "匹兹堡睡眠质量指数（PSQI)",
+  "usingComponents": {
+    "pciker": "../../components/Picker"
+  }
+}

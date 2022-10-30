@@ -3,7 +3,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports[Symbol.toStringTag] = "Module";
 var common_vendor = require("./common/vendor.js");
 if (!Math) {
-  "./pages/problemOne/index.js";
+  "./pages/homePage/index.js";
+  "./pages/resultPage/index.js";
+  "./pages/answerPage/Answer.js";
 }
 const _sfc_main = {
   onLaunch: function() {
@@ -16,7 +18,7 @@ const _sfc_main = {
     console.log("App Hide");
   }
 };
-var App = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "/Users/czy/work/wb/pandaSleepApp/App.vue"]]);
+var App = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "/Users/czy/work/wb/sleeppanda-frontend/App.vue"]]);
 function createApp() {
   const app = common_vendor.createSSRApp(App);
   return {

@@ -1,0 +1,11 @@
+"use strict";
+var _imports_0$2 = "/static/images/homePageTopImg.png";
+var _imports_0$1 = "/static/images/resultPageTopImg.png";
+var resultCongratulationImg = "/static/images/resultCongratulationImg.png";
+var resultRegretImg = "/static/images/resultRegretImg.png";
+var _imports_0 = "/static/images/left.png";
+exports._imports_0 = _imports_0$2;
+exports._imports_0$1 = _imports_0$1;
+exports._imports_0$2 = _imports_0;
+exports.resultCongratulationImg = resultCongratulationImg;
+exports.resultRegretImg = resultRegretImg;
